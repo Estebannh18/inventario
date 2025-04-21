@@ -8,4 +8,4 @@ const router = Router();
 router.get("/", categoriaController.getCategorias);
 
 /* hacemos disponible a mi server en toda la app para toda la aplicacion*/
-export default router
+export default router 
